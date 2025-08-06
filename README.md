@@ -1,5 +1,1 @@
-- Yo Hi, I’m @IamPunch
-- i am cool
-- i code
-- i use dicord
-- what else do you need huh?
+-18 , Student , curious
