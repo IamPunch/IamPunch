@@ -1,1 +1,1 @@
--18 , Student , curious
+-18 , Student , Curious
